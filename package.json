@@ -1,0 +1,23 @@
+{
+  "name": "calcul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcul.js",
+  "dependencies": {
+    "calcu": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bansalhimanshu75/Himanshu.git"
+  },
+  "author": "Himanshu Bansal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bansalhimanshu75/Himanshu/issues"
+  },
+  "homepage": "https://github.com/bansalhimanshu75/Himanshu#readme"
+}
